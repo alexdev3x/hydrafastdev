@@ -8,7 +8,7 @@
 <br>
 
  :warning: **All of our work is licensed. So, don't forget to give us credits!**
-### [LICENSE]()
+### [LICENSE](https://github.com/alexdev3x/hydrafastdev/blob/main/LICENSE)
 
 <br>
 
