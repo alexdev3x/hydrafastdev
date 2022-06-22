@@ -1,7 +1,7 @@
   <center><a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a></center>
 
  <div align=center>    
-  <a href="https://github.com/al3xan6er">
+  <a href="https://github.com/alexdev3x">
     <img src="https://komarev.com/ghpvc/?username=TeamDarkDevs" alt="shield.png">
   </a>
 <br>
@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/al3xan6er"><img src="https://github.com/account/al3xan6er" width="100px;" alt=""/><br /><sub><b>CloudTeam ✨</b></sub></a><br /><a href="https://github.com/account/al3xan6er" title="Founder">👑</a></td>
+     <td align="center"><a href="https://github.com/alexdev3x"><img src="https://github.com/account/alexdev3x" width="100px;" alt=""/><br /><sub><b>CloudTeam ✨</b></sub></a><br /><a href="https://github.com/account/alexdev3x" title="Founder">👑</a></td>
   </tr>
   
 </table>
