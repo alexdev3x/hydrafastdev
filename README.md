@@ -56,9 +56,6 @@ Currently in Development!
 <br><br>
 </div>
 
-## Note :
-Some repos are private, and can only be accessed by the people who boosted our server.
-
 ## Codes by our Developers :
 - DB Systems
 - graphics design 
