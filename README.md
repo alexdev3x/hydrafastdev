@@ -1,5 +1,3 @@
-  <center><a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a></center>
-
  <div align=center>    
   <a href="https://github.com/alexdev3x">
     <img src="https://komarev.com/ghpvc/?username=TeamDarkDevs" alt="shield.png">
